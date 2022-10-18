@@ -1,8 +1,11 @@
 # ais7_demo
 
-* 멋쟁이 사자처럼 AIS7 실습
+<img src="https://cdn-apply.likelion.org/static/imgs/basiclogo_E_V.png" height=100px width=100px>
 
-## Streamlit 배포 실습
-* Streamlit 으로 대시보드 만들기
-* 데이터프레임 보여주기
-* 시각화 하기
+* LIKELION 7TH AI SCHOOL
+* DAVID EUIJOON KIM
+
+## Streamlit Upload Exercise
+* Create a dashboard using Streamlit
+* Display Dataframe
+* Visualization
