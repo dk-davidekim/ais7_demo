@@ -7,5 +7,5 @@
 
 ## Streamlit Upload Exercise
 * Create a dashboard using Streamlit
-* Display Dataframe
+* Display dataframe
 * Visualization
